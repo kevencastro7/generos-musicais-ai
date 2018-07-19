@@ -51,16 +51,16 @@ Confusion Matrix:
 
 SVM:
 
-              Predicted
-                0   1
+                        Predicted
+                          0   1
                 
-Actual    0|  |310| 9 |
-          1|  |17 |208|
+          Actual    0|  |310| 9 |
+                    1|  |17 |208|
           
 Neural Network:
 
-              Predicted
-                0   1
+                        Predicted
+                          0   1
                 
-Actual    0|  |306|13 |
-          1|  |11 |214|
+          Actual    0|  |306|13 |
+                    1|  |11 |214|
